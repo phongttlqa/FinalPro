@@ -3,7 +3,7 @@ Basic method :
 https://github.com/phongttlqa/FinalPro/blob/master/src/test/java/base/Utils.java
 
 Testcase package : 
-https://github.com/phongttlqa/FinalPro/tree/main/src/test/java/test
+https://github.com/phongttlqa/FinalPro/tree/master/src/test/java
 
 Testcase : Create Account (You need change new email before run this testcase)
 https://github.com/phongttlqa/FinalPro/blob/main/src/test/java/test/CreateAccount.java
